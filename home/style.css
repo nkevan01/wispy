@@ -1,5 +1,5 @@
 .home-page-title{
-    padding-left:10px;
+    text-align:center;
     padding-bottom:20px;
 }
 .main{
@@ -7,5 +7,20 @@
 
 }
 .p1{
-    padding-left:10px;
+ text-align:center;
+ width:50%;
+ text-align:center;
+ margin-left: 25%;
+}
+
+.body-para{
+    width:50%;
+    text-align:center;
+    margin-left: 25%;
+}
+.pic1{
+
+   width:100%;
+    text-align:center;
+    
 }
